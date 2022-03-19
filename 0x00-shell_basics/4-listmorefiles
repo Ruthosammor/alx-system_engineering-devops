@@ -1,2 +1,7 @@
-#!/bin/bash
-ls -la
+drwxr-xr-x 3 996 992 120 .
+drwxr-xr-x 4 996 992 43 ..
+-rwxr-xr-x 1 996 992 16 0-current_working_directory
+drwxr-xr-x 2 996 992 22 1-listit
+-rw-r--r-- 1 996 992 15 2-bring_me_home
+-rw-r--r-- 1 996 992 19 4-listmorefiles
+-rw-r--r-- 1 996 992 25 README.md
