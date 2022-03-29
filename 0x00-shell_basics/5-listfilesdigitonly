@@ -1,1 +1,2 @@
-coding 
+#!/bin/bash
+ls -lna
